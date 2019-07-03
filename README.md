@@ -8,3 +8,7 @@ OOP Book List project
 03/07/2019
 - Validation and Alert
 - Delete Book from List
+
+04/07/2019 
+- Convert to ES6 CLasses
+- Add local storage
