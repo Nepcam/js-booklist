@@ -11,4 +11,4 @@ OOP Book List project
 
 04/07/2019 
 - Convert to ES6 CLasses
-- Add local storage
+- Add and remove from local storage
